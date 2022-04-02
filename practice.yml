@@ -1,0 +1,11 @@
+---
+person:
+  name: lucas
+  age: 30
+  birthday: 1993-03-31
+  profession: technology lead
+institution:
+  name: moma
+  location: new york
+  type: art
+  
